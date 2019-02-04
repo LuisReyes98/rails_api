@@ -1,24 +1,14 @@
-# README
+# RAILS API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+gem used for unit testing
 
-Things you may want to cover:
+Rspec:
+http://rspec.info/   https://github.com/rspec/rspec-rails
 
-* Ruby version
+https://github.com/thoughtbot/shoulda-matchers
 
-* System dependencies
+https://github.com/thoughtbot/factory_bot    https://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED.md
 
-* Configuration
+https://github.com/DatabaseCleaner/database_cleaner
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/stympy/faker
